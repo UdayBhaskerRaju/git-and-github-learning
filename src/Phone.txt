@@ -4,3 +4,5 @@ code for phone features
 
 ->calling
 ->messeging
+->calculator
+->whatsapp
