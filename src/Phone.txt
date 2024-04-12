@@ -1,3 +1,6 @@
 code for phone features
 -> applications
 -> phone settings
+
+->calling
+->messeging
